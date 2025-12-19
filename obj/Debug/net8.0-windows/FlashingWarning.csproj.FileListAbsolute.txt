@@ -1,0 +1,14 @@
+C:\Code\test\bin\Debug\net8.0-windows\FlashingWarning.exe
+C:\Code\test\bin\Debug\net8.0-windows\FlashingWarning.deps.json
+C:\Code\test\bin\Debug\net8.0-windows\FlashingWarning.runtimeconfig.json
+C:\Code\test\bin\Debug\net8.0-windows\FlashingWarning.dll
+C:\Code\test\bin\Debug\net8.0-windows\FlashingWarning.pdb
+C:\Code\test\obj\Debug\net8.0-windows\FlashingWarning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\test\obj\Debug\net8.0-windows\FlashingWarning.AssemblyInfoInputs.cache
+C:\Code\test\obj\Debug\net8.0-windows\FlashingWarning.AssemblyInfo.cs
+C:\Code\test\obj\Debug\net8.0-windows\FlashingWarning.csproj.CoreCompileInputs.cache
+C:\Code\test\obj\Debug\net8.0-windows\FlashingWarning.dll
+C:\Code\test\obj\Debug\net8.0-windows\refint\FlashingWarning.dll
+C:\Code\test\obj\Debug\net8.0-windows\FlashingWarning.pdb
+C:\Code\test\obj\Debug\net8.0-windows\FlashingWarning.genruntimeconfig.cache
+C:\Code\test\obj\Debug\net8.0-windows\ref\FlashingWarning.dll
